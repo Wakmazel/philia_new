@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="49" viewBox="0 0 150 49">
+  <g id="Google_Play" data-name="Google Play" transform="translate(-0.215 0.109)">
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="150" height="49" rx="17.5" transform="translate(0.215 -0.109)" fill="#080809"/>
+    <g id="google-play_1" data-name="google-play 1" transform="translate(24.941 9.853)">
+      <path id="Vector" d="M15.185,13.613,1.048,27.225A2.4,2.4,0,0,1,0,25.219V2.007A2.4,2.4,0,0,1,1.048,0Z" transform="translate(0 0.465)" fill="#2196f3"/>
+      <path id="Vector-2" data-name="Vector" d="M19.083,9.323l-4.947,4.755L0,.465A1.884,1.884,0,0,1,.166.35,2.418,2.418,0,0,1,2.608.312Z" transform="translate(1.048 0)" fill="#4caf50"/>
+      <path id="Vector-3" data-name="Vector" d="M10.941,4.755A2.444,2.444,0,0,1,9.663,6.928L4.947,9.51,0,4.755,4.947,0,9.663,2.582A2.444,2.444,0,0,1,10.941,4.755Z" transform="translate(15.185 9.323)" fill="#f0bb1f"/>
+      <path id="Vector-4" data-name="Vector" d="M19.083,4.755,2.608,13.766a2.45,2.45,0,0,1-2.441-.038A1.884,1.884,0,0,1,0,13.613L14.137,0Z" transform="translate(1.048 14.078)" fill="#f15a2b"/>
+    </g>
+    <text id="GET_IT_ON" data-name="GET IT ON" transform="translate(59.215 9.89)" fill="#fff" font-size="8" font-family="Poppins-Regular, Poppins"><tspan x="0" y="8">GET IT ON</tspan></text>
+    <text id="GOOGLE_PLAY-2" data-name="GOOGLE PLAY" transform="translate(59.215 23.89)" fill="#fff" font-size="8" font-family="Poppins-Regular, Poppins"><tspan x="0" y="8">GOOGLE PLAY</tspan></text>
+  </g>
+</svg>

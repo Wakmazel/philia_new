@@ -1,0 +1,9 @@
+:root{  
+    --principal : #4CAF50;
+    --secondaire : #f69c00;
+    --bg : #ffffff;
+    --text-grey : #505050;
+    --text-black : #000000;
+    --text-white : #ffffff;
+    --global-padding : 135px;
+}
